@@ -1,7 +1,7 @@
 import random
 
 massiv = [95, 85, 75, 65, 55, 45, 35, 25, 15]
-sposob = "median"  # "first", "last", "middle", "median", "random"
+sposob = "median"
 razdelenie_count = 0
 
 def vybor_opornogo(arr, left, right, sposob):
